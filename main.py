@@ -1,4 +1,4 @@
-name:str = ""
+name:str = "andrea"
 
 prnt(f"Hello World {name}")
 
